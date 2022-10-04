@@ -19,7 +19,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-[Solution URL](https://www.frontendmentor.io/solutions/qr-code-project-submission-kXx21x5Urw),
 [Live Site URL](https://elegant-starburst-511da4.netlify.app/)
 
 ## My process
