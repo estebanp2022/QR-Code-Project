@@ -2,11 +2,17 @@ body {
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
   font-size: 15px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .container {
   width: 30%;
   max-width: 320px;
+  min-width: 320px;
   margin: 0 auto;
 
   display: flex;
@@ -15,12 +21,6 @@ body {
   background-color: hsl(0, 0%, 100%);
   border-radius: 15px;
   padding: 15px;
-
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%);
 }
 
 img {
